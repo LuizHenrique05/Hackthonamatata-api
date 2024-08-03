@@ -14,5 +14,7 @@
     "keywords": [],
     "author": "Hackthonamatata-api",
     "license": "ISC",
-    "dependencies": {}
+    "dependencies": {
+        "json-server": "^0.17.4"
+    }
 }
