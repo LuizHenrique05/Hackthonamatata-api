@@ -1,0 +1,282 @@
+{
+    "campaings": [
+      {
+        "id": 1,
+        "name": "Ajuda Abrigo da salvação",
+        "small_description": "Ajuda para construir um abrigo no RS",
+        "image": "https://i.imgur.com/0CFBAQD.jpg",
+        "tag": "Ajuda RS",
+        "contact_phone": "(14) 92109-1209",
+        "address": "Rua João Goulart, 123, Porto Alegre",
+        "complete_description": "precisamos de voluntários para ajudar na construção de um abrigo provisório para as pessoas do rio grande do sul",
+        "volunteer_call": "",
+        "donation_text": "Doe para o Pix: 12379123978312"
+      },
+      {
+        "id": 2,
+        "name": "Projeto Sorriso",
+        "small_description": "Ação para distribuir brinquedos em comunidades carentes",
+        "image": "https://i.imgur.com/YxYUJQH.jpg",
+        "tag": "Solidariedade",
+        "contact_phone": "(11) 97845-6789",
+        "address": "Avenida Brasil, 456, São Paulo",
+        "complete_description": "Estamos arrecadando brinquedos novos e usados em bom estado para distribuir em comunidades carentes. Participe e ajude a levar um sorriso às crianças.",
+        "volunteer_call": "Venha ser voluntário e ajude na distribuição dos brinquedos.",
+        "donation_text": "Doe brinquedos ou contribua pelo Pix: 87654321987654"
+      },
+      {
+        "id": 3,
+        "name": "Alimento Solidário",
+        "small_description": "Campanha de arrecadação de alimentos para famílias necessitadas",
+        "image": "https://i.imgur.com/t4FJQwA.jpg",
+        "tag": "Ajuda Alimentar",
+        "contact_phone": "(21) 99234-5678",
+        "address": "Rua das Flores, 789, Rio de Janeiro",
+        "complete_description": "Nosso objetivo é coletar alimentos não perecíveis para distribuir a famílias em situação de vulnerabilidade. Toda ajuda é bem-vinda!",
+        "volunteer_call": "Precisamos de voluntários para a coleta e distribuição dos alimentos.",
+        "donation_text": "Doe alimentos ou contribua pelo Pix: 98765432198765"
+      },
+      {
+        "id": 4,
+        "name": "Apoio Animal",
+        "small_description": "Campanha de adoção de animais de rua",
+        "image": "https://i.imgur.com/B5P6K7F.jpg",
+        "tag": "Proteção Animal",
+        "contact_phone": "(31) 99876-5432",
+        "address": "Rua dos Anjos, 321, Belo Horizonte",
+        "complete_description": "Estamos promovendo uma feira de adoção de animais resgatados das ruas. Dê um lar amoroso a um pet!",
+        "volunteer_call": "Venha ser voluntário e ajude a cuidar dos animais até a adoção.",
+        "donation_text": "Doe ração ou contribua pelo Pix: 56743210987654"
+      },
+      {
+        "id": 5,
+        "name": "Educação para Todos",
+        "small_description": "Campanha de arrecadação de material escolar",
+        "image": "https://i.imgur.com/M3xY2LB.jpg",
+        "tag": "Educação",
+        "contact_phone": "(85) 99123-4567",
+        "address": "Rua da Sabedoria, 654, Fortaleza",
+        "complete_description": "Estamos arrecadando material escolar para crianças carentes. Ajude a proporcionar um futuro melhor!",
+        "volunteer_call": "Precisamos de voluntários para a coleta e distribuição dos materiais.",
+        "donation_text": "Doe material escolar ou contribua pelo Pix: 12345678901234"
+      }
+    ],
+    "real_estate": [
+      {
+        "id": 1,
+        "image": "",
+        "title": "Casa de Praia",
+        "address": "Rua das Gaivotas, 123, Florianópolis, SC",
+        "description": "Casa com 3 quartos, 2 banheiros, 1 cozinha, 1 sala de estar"
+      },
+      {
+        "id": 2,
+        "image": "",
+        "title": "Apartamento no Centro",
+        "address": "Av. Paulista, 456, São Paulo, SP",
+        "description": "Apartamento com 2 quartos, 1 banheiro, 1 cozinha, 1 sala de estar, 1 varanda"
+      },
+      {
+        "id": 3,
+        "image": "",
+        "title": "Chácara",
+        "address": "Estrada das Flores, Km 10, Interior, MG",
+        "description": "Chácara com 4 quartos, 3 banheiros, 1 cozinha, 1 sala de estar, 1 sala de jantar, 1 varanda, 1 área de serviço"
+      },
+      {
+        "id": 4,
+        "image": "",
+        "title": "Cobertura de Luxo",
+        "address": "Rua das Palmeiras, 789, Rio de Janeiro, RJ",
+        "description": "Cobertura com 5 quartos, 4 banheiros, 1 cozinha, 1 sala de estar, 1 sala de jantar, 1 varanda, 1 área gourmet"
+      },
+      {
+        "id": 5,
+        "image": "",
+        "title": "Apartamento Moderno",
+        "address": "Av. Ipiranga, 101, Porto Alegre, RS",
+        "description": "Apartamento com 3 quartos, 2 banheiros, 1 cozinha, 1 sala de estar, 1 escritório"
+      },
+      {
+        "id": 6,
+        "image": "",
+        "title": "Casa de Campo",
+        "address": "Rodovia dos Bandeirantes, Km 60, Interior, SP",
+        "description": "Casa com 4 quartos, 3 banheiros, 1 cozinha, 1 sala de estar, 1 sala de jantar, 1 varanda, 1 área de lazer"
+      },
+      {
+        "id": 7,
+        "image": "",
+        "title": "Studio Compacto",
+        "address": "Rua Bela Vista, 222, Curitiba, PR",
+        "description": "Studio com 1 quarto, 1 banheiro, 1 cozinha integrada, 1 sala de estar"
+      }
+    ],
+    "volunteers": [
+      {
+        "id": 1,
+        "name": "Ana Silva",
+        "document": "123.456.789-00",
+        "document_type": "cpf",
+        "contact_phone": "(11) 91234-5678",
+        "address": "Rua das Flores, 123, São Paulo, SP",
+        "email": "ana.silva@example.com",
+        "gender": "feminino"
+      },
+      {
+        "id": 2,
+        "name": "Bruno Souza",
+        "document": "987.654.321-00",
+        "document_type": "cpf",
+        "contact_phone": "(21) 92345-6789",
+        "address": "Avenida Brasil, 456, Rio de Janeiro, RJ",
+        "email": "bruno.souza@example.com",
+        "gender": "masculino"
+      },
+      {
+        "id": 3,
+        "name": "Carlos Pereira",
+        "document": "12.345.678/0001-90",
+        "document_type": "cnpj",
+        "contact_phone": "(31) 93456-7890",
+        "address": "Rua das Palmeiras, 789, Belo Horizonte, MG",
+        "email": "carlos.pereira@example.com",
+        "gender": "masculino"
+      },
+      {
+        "id": 4,
+        "name": "Daniela Rocha",
+        "document": "A12345678",
+        "document_type": "passaporte",
+        "contact_phone": "(41) 94567-8901",
+        "address": "Avenida Iguaçu, 101, Curitiba, PR",
+        "email": "daniela.rocha@example.com",
+        "gender": "feminino"
+      },
+      {
+        "id": 5,
+        "name": "Eduardo Lima",
+        "document": "234.567.890-00",
+        "document_type": "cpf",
+        "contact_phone": "(51) 95678-9012",
+        "address": "Rua dos Andradas, 202, Porto Alegre, RS",
+        "email": "eduardo.lima@example.com",
+        "gender": "masculino"
+      },
+      {
+        "id": 6,
+        "name": "Fernanda Alves",
+        "document": "345.678.901-00",
+        "document_type": "cpf",
+        "contact_phone": "(61) 96789-0123",
+        "address": "SQN 302, Bloco B, Brasília, DF",
+        "email": "fernanda.alves@example.com",
+        "gender": "feminino"
+      },
+      {
+        "id": 7,
+        "name": "Gustavo Ferreira",
+        "document": "456.789.012-00",
+        "document_type": "cpf",
+        "contact_phone": "(71) 97890-1234",
+        "address": "Rua das Laranjeiras, 303, Salvador, BA",
+        "email": "gustavo.ferreira@example.com",
+        "gender": "masculino"
+      }
+    ],
+    "posts": [
+      {
+        "id": 1,
+        "title": "Combate ao Aquecimento Global",
+        "image": "https://img.freepik.com/fotos-gratis/mudanca-climatica-com-solo-seco_23-2149217819.jpg",
+        "small_description": "Campanha para reduzir o aquecimento global.",
+        "complete_description": "<p>O aquecimento global é um dos maiores desafios do nosso tempo. A <strong>campanha de combate ao aquecimento global</strong> visa reduzir as emissões de gases de efeito estufa e promover práticas sustentáveis.</p><p>Participe e apoie nossa causa em <a href='https://example.com/aquecimento_global'>nosso site</a>.</p>"
+      },
+      {
+        "id": 2,
+        "title": "Proteção das Florestas",
+        "image": "https://img.freepik.com/fotos-premium/mao-cortada-de-um-homem-de-pe-na-floresta_1048944-20075210.jpg",
+        "small_description": "Campanha para proteger as florestas.",
+        "complete_description": "<p>As florestas são essenciais para a biodiversidade e para o equilíbrio climático. A <strong>campanha de proteção das florestas</strong> busca combater o desmatamento e promover a conservação das áreas verdes.</p><p>Ajude a proteger nossas florestas em <a href='https://example.com/protecao_florestas'>nosso site</a>.</p>"
+      },
+      {
+        "id": 3,
+        "title": "Conservação dos Oceanos",
+        "image": "https://img.freepik.com/fotos-premium/ceu-e-oceano-azul_113629-159.jpg",
+        "small_description": "Campanha para a conservação dos oceanos.",
+        "complete_description": "<p>Os oceanos estão sofrendo com a poluição e a exploração excessiva. A <strong>campanha de conservação dos oceanos</strong> visa reduzir a poluição marinha e proteger a vida aquática.</p><p>Contribua para a conservação dos oceanos em <a href='https://example.com/conservacao_oceanos'>nosso site</a>.</p>"
+      },
+      {
+        "id": 4,
+        "title": "Energia Renovável",
+        "image": "https://img.freepik.com/fotos-gratis/paineis-solares-e-usina-eolica-fora_23-2149352234.jpg",
+        "small_description": "Campanha para promover o uso de energia renovável.",
+        "complete_description": "<p>A transição para fontes de <strong>energia renovável</strong> é crucial para combater as mudanças climáticas. A <strong>campanha de energia renovável</strong> incentiva o uso de fontes limpas como solar e eólica.</p><p>Saiba como você pode ajudar em <a href='https://example.com/energia_renovavel'>nosso site</a>.</p>"
+      },
+      {
+        "id": 5,
+        "title": "Redução de Resíduos",
+        "image": "https://img.freepik.com/fotos-gratis/sorrindo-mulher-jovem-segurando-rebento-em-bulbo-leve_23-2147839030.jpg",
+        "small_description": "Campanha para reduzir a produção de resíduos.",
+        "complete_description": "<p>A produção excessiva de resíduos contribui para a degradação ambiental. A <strong>campanha de redução de resíduos</strong> promove práticas de reciclagem e a redução do uso de plásticos.</p><p>Veja como você pode contribuir em <a href='https://example.com/reducao_residuos'>nosso site</a>.</p>"
+      },
+      {
+        "id": 6,
+        "title": "Proteção da Vida Selvagem",
+        "image": "https://img.freepik.com/fotos-gratis/vista-do-leao-em-seu-habitat-natural_23-2151657694.jpg",
+        "small_description": "Campanha para proteger a vida selvagem.",
+        "complete_description": "<p>Muitas espécies estão ameaçadas pela destruição de habitats e mudanças climáticas. A <strong>campanha de proteção da vida selvagem</strong> busca preservar a biodiversidade e proteger os animais em risco.</p><p>Apoie a vida selvagem em <a href='https://example.com/protecao_vida_selvagem'>nosso site</a>.</p>"
+      },
+      {
+        "id": 7,
+        "title": "Educação Ambiental",
+        "image": "https://img.freepik.com/fotos-gratis/melhores-amigos-participando-de-uma-caca-ao-tesouro-ao-ar-livre_23-2149095767.jpg",
+        "small_description": "Campanha para promover a educação ambiental.",
+        "complete_description": "<p>A <strong>educação ambiental</strong> é fundamental para formar uma sociedade consciente e sustentável. A <strong>campanha de educação ambiental</strong> visa ensinar práticas ecológicas e a importância da conservação do meio ambiente.</p><p>Saiba mais e participe em <a href='https://example.com/educacao_ambiental'>nosso site</a>.</p>"
+      }
+    ],
+    "ongs": [
+      {
+        "id": 1,
+        "name": "SOS Mata Atlântica",
+        "image": "https://www.viradasustentavel.org.br/uploads/tinymce/uploads/SP_23/Logos_organizacoes/SOS_Mata_Atlantica.png",
+        "description": "ONG dedicada à preservação da Mata Atlântica e promoção de sustentabilidade."
+      },
+      {
+        "id": 2,
+        "name": "Greenpeace Brasil",
+        "image": "https://123ecos.com.br/wp-content/uploads/2022/09/greenpeace-1.jpg",
+        "description": "Organização ambiental global que atua na proteção do meio ambiente e da paz."
+      },
+      {
+        "id": 3,
+        "name": "Instituto Socioambiental",
+        "image": "https://lira.ipe.org.br/images/foto-18.png",
+        "description": "ONG que promove a conservação da biodiversidade e a sustentabilidade social."
+      },
+      {
+        "id": 4,
+        "name": "WWF Brasil",
+        "image": "https://d3nehc6yl9qzo4.cloudfront.net/img/original/wwf_logo_large_rgb_72dpi.jpg",
+        "description": "Organização que trabalha pela conservação da natureza e redução dos impactos humanos."
+      },
+      {
+        "id": 5,
+        "name": "Instituto de Conservação Ambiental",
+        "image": "https://s1.static.brasilescola.uol.com.br/be/e/image/MarcaICMBio.jpg",
+        "description": "Foca na conservação de ecossistemas e na promoção de práticas sustentáveis."
+      },
+      {
+        "id": 6,
+        "name": "ClimaInfo",
+        "image": "https://climainfo.org.br/wp-content/uploads/2020/08/CLIMAINFO-FINAL.jpg",
+        "description": "ONG que busca informar e mobilizar a sociedade sobre as mudanças climáticas."
+      },
+      {
+        "id": 7,
+        "name": "Rede de Ação Climática",
+        "image": "https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2023/08/rede-clima-lanca-publicacoes-que-destacam-contribuicoes-cientificas-sobre-mudancas-climaticas-no-brasil/logo_rede_clima2.png/@@images/11575727-794f-4914-b6ac-e5cf66136ac5.png",
+        "description": "Coalizão de ONGs que trabalham juntas para enfrentar as mudanças climáticas."
+      }
+    ]
+  }
