@@ -15,6 +15,7 @@
     "author": "Hackthonamatata-api",
     "license": "ISC",
     "dependencies": {
+        "express": "^4.19.2",
         "json-server": "^0.17.4"
     }
 }
