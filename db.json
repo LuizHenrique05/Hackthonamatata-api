@@ -10,7 +10,8 @@
         "address": "Rua João Goulart, 123, Porto Alegre",
         "complete_description": "precisamos de voluntários para ajudar na construção de um abrigo provisório para as pessoas do rio grande do sul",
         "volunteer_call": "Venha ser voluntário e ajude na distribuição dos brinquedos para auxiliar em abrigos.",
-        "donation_text": "Doe para o Pix: 12379123978312"
+        "donation_text": "Doe para o Pix: 12379123978312",
+        "estate": "Rio Grande do Sul"
       },
       {
         "id": 2,
@@ -22,7 +23,8 @@
         "address": "Avenida Brasil, 456, São Paulo",
         "complete_description": "Estamos arrecadando brinquedos novos e usados em bom estado para distribuir em comunidades carentes. Participe e ajude a levar um sorriso às crianças.",
         "volunteer_call": "Venha ser voluntário e ajude na distribuição dos brinquedos.",
-        "donation_text": "Doe brinquedos ou contribua pelo Pix: 87654321987654"
+        "donation_text": "Doe brinquedos ou contribua pelo Pix: 87654321987654",
+        "estate": "São Paulo"
       },
       {
         "id": 3,
@@ -34,7 +36,8 @@
         "address": "Rua das Flores, 789, Rio de Janeiro",
         "complete_description": "Nosso objetivo é coletar alimentos não perecíveis para distribuir a famílias em situação de vulnerabilidade. Toda ajuda é bem-vinda!",
         "volunteer_call": "Precisamos de voluntários para a coleta e distribuição dos alimentos.",
-        "donation_text": "Doe alimentos ou contribua pelo Pix: 98765432198765"
+        "donation_text": "Doe alimentos ou contribua pelo Pix: 98765432198765",
+        "estate": "Rio de Janeiro"
       },
       {
         "id": 4,
@@ -46,7 +49,8 @@
         "address": "Rua dos Anjos, 321, Belo Horizonte",
         "complete_description": "Estamos promovendo uma feira de adoção de animais resgatados das ruas. Dê um lar amoroso a um pet!",
         "volunteer_call": "Venha ser voluntário e ajude a cuidar dos animais até a adoção.",
-        "donation_text": "Doe ração ou contribua pelo Pix: 56743210987654"
+        "donation_text": "Doe ração ou contribua pelo Pix: 56743210987654",
+        "estate": "Minas Gerais"
       },
       {
         "id": 5,
@@ -58,7 +62,8 @@
         "address": "Rua da Sabedoria, 654, Fortaleza",
         "complete_description": "Estamos arrecadando material escolar para crianças carentes. Ajude a proporcionar um futuro melhor!",
         "volunteer_call": "Precisamos de voluntários para a coleta e distribuição dos materiais.",
-        "donation_text": "Doe material escolar ou contribua pelo Pix: 12345678901234"
+        "donation_text": "Doe material escolar ou contribua pelo Pix: 12345678901234",
+        "estate": "Ceará"
       }
     ],
     "properties": [
