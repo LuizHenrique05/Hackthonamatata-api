@@ -2,8 +2,8 @@
 
 ## Índice
 1. [Como rodar a API](#como-rodar-a-api)
-2. [Endpoints disponíveis](#endpoints-disponiveis)
-3. [Links úteis](#links-uteis)
+2. [Endpoints disponíveis](#endpoints-disponíveis)
+3. [Links úteis](#links-úteis)
 4. [Novas features futuras](#novas-features-futuras)
 
 ## Como rodar a API
