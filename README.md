@@ -26,11 +26,11 @@ pnpm dev
 
 ## Endpoints disponíveis
 Para rodar os testes, utilize o seguinte comando:
-**ONGs:** `GET /api/ongs`
-**CAMPAIGNS:** `GET /api/campaigns`
-**PROPERTIES:** `GET /api/properties`
-**VOLUNTEERS:** `GET /api/volunteers
-**POSTS:** `GET /api/posts`
+- **ONGs:** `GET /api/ongs`
+- **CAMPAIGNS:** `GET /api/campaigns`
+- **PROPERTIES:** `GET /api/properties`
+- **VOLUNTEERS:** `GET /api/volunteers
+- **POSTS:** `GET /api/posts`
 
 É possível também adicionar ao final do do endpoint também da seguinte forma `/api/posts/[id]` para busca de resultados específicos.
 
